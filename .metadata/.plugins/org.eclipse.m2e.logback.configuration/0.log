@@ -1,0 +1,33 @@
+2023-03-06 12:22:36,698 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-06 12:22:39,244 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-03-06 12:23:07,461 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationPracticeSite1:AutomationPracticeSite1:0.0.1-SNAPSHOT @ C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\pom.xml.
+2023-03-06 12:23:08,270 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationPracticeSite1:AutomationPracticeSite1:0.0.1-SNAPSHOT @ C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\pom.xml.
+2023-03-06 12:23:11,483 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:23:11,484 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:23:11,494 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:23:11,494 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
+2023-03-06 12:23:14,115 [Worker-16: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationPracticeSite1:AutomationPracticeSite1:0.0.1-SNAPSHOT @ C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\pom.xml.
+2023-03-06 12:23:15,463 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:23:15,464 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:23:15,469 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:23:15,470 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
+2023-03-06 12:23:17,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:23:17,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:23:17,886 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:23:17,888 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
+2023-03-06 12:24:09,127 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:24:09,128 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:24:09,130 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:24:09,130 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
+2023-03-06 12:24:31,438 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:24:31,438 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:24:31,442 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:24:31,442 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
+2023-03-06 12:24:46,583 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:24:46,584 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:24:46,587 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:24:46,587 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
+2023-03-06 12:26:07,441 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:26:07,442 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\main\resources
+2023-03-06 12:26:07,445 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 12:26:07,445 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sdevane\OneDrive - Capgemini\Documents\ANZ\Sel\AutomationPracticeSite1\src\test\resources
